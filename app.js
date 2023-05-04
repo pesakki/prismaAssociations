@@ -133,3 +133,5 @@ app.use(express.json())
 //git push
 
 //git pull(public to local)
+
+//git@github.com:pesakki/prismaAssociations.git
