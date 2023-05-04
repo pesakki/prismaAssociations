@@ -131,3 +131,5 @@ app.use(express.json())
 //npx prisma migrate dev --name create-houses-table
 
 //git push
+
+//git pull(public to local)
